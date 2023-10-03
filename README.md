@@ -11,7 +11,7 @@ I got my Bachelor of Science in Computer Engineering at the University of Centra
 *   🧠  I'm learning to brush up on Data Structures and Algorithms
 *   🤝  I'm open to collaborating on open source projects
 *   ⚡  I am curious about Game Development and Machine Learning
-*   
+   
 
 ### Skills
 
