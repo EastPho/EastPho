@@ -4,7 +4,7 @@ Hi 👋 My name is Kevin Khuu
 Computer Engineer Graduate
 --------------------------
 
-I got my Bachelor of Science in Computer Engineering at the University of Central Florida. I started with C for 1 year, but then switched over to Java. Learning Java made me appreciate Object Oriented Programming because it helps me compartmentalize data and functions as objects, given the name OOP.
+I got my Bachelor of Science in Computer Engineering at the University of Central Florida. I started with C for 1 year, but then switched over to Java. Learning Java made me appreciate Object Oriented Programming because it helps me compartmentalize data and functions as objects, given the name.
 
 *   🌍  I'm based in Orlando, FL
 *   ✉️  You can contact me at [kkhuu9@gmail.com](mailto:kkhuu9@gmail.com)
